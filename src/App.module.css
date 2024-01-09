@@ -1,0 +1,38 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.liffIdBox {
+  margin: 40px 0;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.qrCode {
+  max-width: 128px;
+  height: auto;
+}
+
+@media only screen and (max-width: 375px) {
+  .container {
+    width: auto;
+    padding: 0 15px;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+  .liffIdBox {
+    width: auto;
+    display: block;
+  }
+}
+

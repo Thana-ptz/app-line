@@ -1,6 +1,6 @@
 {
-  "name": "liff-playground",
-  "description": "This is a small web application that demonstrates the basic functionality of the [LINE Front-end Framework (LIFF)](https://developers.line.biz/en/docs/liff/overview/).",
+  "name": "MiniApp - THANA Business",
+  "description": "web application - THANA Business." ,
   "private": true,
   "repository": {
     "type": "git",

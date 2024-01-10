@@ -1,6 +1,6 @@
 {
   "name": "MiniApp - THANA Business",
-  "description": "web application - THANA Business." ,
+  "description": "web application - THANA Business.",
   "private": true,
   "repository": {
     "type": "git",
